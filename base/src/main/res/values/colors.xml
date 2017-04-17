@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>  //状态栏颜色 statusBarColor
+    <color name="colorAccent">#FF47AB8E</color>
+
+    <color name="black">#202020</color>
+    <color name="black1">#666666</color>
+    <color name="black2">#aaaaaa</color>
+    <color name="white">#ffffff</color>
+    <color name="white_f1f1f1">#F1F1F1</color>
+    <color name="app_xian">#e5e5e5</color>
+</resources>
